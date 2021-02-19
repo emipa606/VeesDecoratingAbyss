@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Pemmican -->
+  <CAN_MakeCannibalPemmican.label>인육 페미컨 만들기</CAN_MakeCannibalPemmican.label>
+  <CAN_MakeCannibalPemmican.description>인육과 식물성 재료를 섞어 페미컨을 만듭니다. 맛은 별로지만, 냉장 없이도 1년 이상 보관할 수 있습니다.</CAN_MakeCannibalPemmican.description>
+  <CAN_MakeCannibalPemmican.jobString>페미컨 만들기.</CAN_MakeCannibalPemmican.jobString>
+  <CAN_MakeCannibalPemmicanCampfire.label>인육 페미컨 만들기</CAN_MakeCannibalPemmicanCampfire.label>
+  <CAN_MakeCannibalPemmicanCampfire.description>인육과 식물성 재료를 섞어 페미컨을 만듭니다. 맛은 별로지만, 냉장 없이도 1년 이상 보관할 수 있습니다.</CAN_MakeCannibalPemmicanCampfire.description>
+  <CAN_MakeCannibalPemmicanCampfire.jobString>페미컨 만들기.</CAN_MakeCannibalPemmicanCampfire.jobString>
+  <!-- Simple Meal -->
+  <CAN_CookCannibalMealSimple.label>인육으로 간단한 식사 준비</CAN_CookCannibalMealSimple.label>
+  <CAN_CookCannibalMealSimple.description>인간 고기로 만든 간단한 요리입니다.</CAN_CookCannibalMealSimple.description>
+  <CAN_CookCannibalMealSimple.jobString>간단한 식사 준비.</CAN_CookCannibalMealSimple.jobString>
+  <CAN_CookCannibalMealSimpleCampfire.label>인육으로 간단한 식사 준비</CAN_CookCannibalMealSimpleCampfire.label>
+  <CAN_CookCannibalMealSimpleCampfire.description>인간 고기로 만든 간단한 요리입니다.</CAN_CookCannibalMealSimpleCampfire.description>
+  <CAN_CookCannibalMealSimpleCampfire.jobString>간단한 식사 준비.</CAN_CookCannibalMealSimpleCampfire.jobString>
+  <!-- Fine Meal -->
+  <CAN_CookCannibalMealFine.label>인육으로 좋은 식사 준비</CAN_CookCannibalMealFine.label>
+  <CAN_CookCannibalMealFine.description>야채나 과일과 인간 고기를 사용해 만든 다소 복잡한 요리입니다.</CAN_CookCannibalMealFine.description>
+  <CAN_CookCannibalMealFine.jobString>좋은 식사 준비.</CAN_CookCannibalMealFine.jobString>
+  <!-- Lavish Meal -->
+  <CAN_CookCannibalMealLavish.label>인육으로 호화로운 식사 준비</CAN_CookCannibalMealLavish.label>
+  <CAN_CookCannibalMealLavish.description>인간 고기와 식물성 재료를 사용해 매우 복잡하게 조리한 음식입니다. 사용하는 식재료의 대부분이 낭비됩니다.</CAN_CookCannibalMealLavish.description>
+  <CAN_CookCannibalMealLavish.jobString>호화로운 식사 준비.</CAN_CookCannibalMealLavish.jobString>
+  <!-- Survival Meal -->
+  <CAN_CookCannibalMealSurvival.label>인육으로 보존식량 만들기</CAN_CookCannibalMealSurvival.label>
+  <CAN_CookCannibalMealSurvival.description>인간 고기와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 약간의 식재료가 낭비됩니다.</CAN_CookCannibalMealSurvival.description>
+  <CAN_CookCannibalMealSurvival.jobString>보존 식량 만들기.</CAN_CookCannibalMealSurvival.jobString>
+</LanguageData>

@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ==========Blood==============-->
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodA</defName>
+    <label>Blood 1</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodA</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>SmallWire</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodB</defName>
+    <label>Blood 2</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>SmallWire</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodC</defName>
+    <label>Blood 3</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>SmallWire</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodD</defName>
+    <label>Blood 4</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>SmallWire</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodE</defName>
+    <label>Blood 5</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodE</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>SmallWire</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodF</defName>
+    <label>Wall Blood</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodF</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VeeFakeBloodG</defName>
+    <label>Blood 6</label>
+    <description>it's Nothing, but looks like Blood.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>tileblood/tilebloodG</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>SmallWire</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeBloodTile</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <!-- ==========BloodTub!!!!==============-->
+  <ThingDef ParentName="BedBase">
+    <defName>VBloodTubV</defName>
+    <label>Bloodtub</label>
+    <description>It's nothing.:)</description>
+    <graphicData>
+      <texPath>BloodTub/BloodTub</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <drawSize>(1,2)</drawSize>
+      <damageData>
+        <rect>(0,0.05,1,1.95)</rect>
+      </damageData>
+    </graphicData>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>EndTable</li>
+          <li>Dresser</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Beauty>1</Beauty>
+      <WorkToBuild>800</WorkToBuild>
+      <Mass>50</Mass>
+      <BedRestEffectiveness>1</BedRestEffectiveness>
+      <Comfort>0.4</Comfort>
+      <ImmunityGainSpeedFactor>1.07</ImmunityGainSpeedFactor>
+      <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+    </statBases>
+    <scatterableOnMapGen>false</scatterableOnMapGen>
+    <size>(1,2)</size>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>45</costStuffCount>
+    <building>
+      <bed_showSleeperBody>False</bed_showSleeperBody>
+      <bed_healPerDay>4</bed_healPerDay>
+    </building>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>60</pathCost>
+    <staticSunShadowHeight>0.17</staticSunShadowHeight>
+    <castEdgeShadows>True</castEdgeShadows>
+    <designationHotKey>Misc2</designationHotKey>
+    <techLevel>Medieval</techLevel>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
+    <uiIconScale>0.90</uiIconScale>
+  </ThingDef>
+  <!-- ==========Hook bed!!!!==============-->
+  <ThingDef ParentName="BuildingBase">
+    <defName>VHookbedAV</defName>
+    <label>Hook bed</label>
+    <description>Not comfortable.</description>
+    <thingClass>Building_Bed</thingClass>
+    <graphicData>
+      <texPath>Hook/hookbedA</texPath>
+      <shaderType>CutoutComplex</shaderType>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>ItemImportant</altitudeLayer>
+    <statBases>
+      <WorkToBuild>0</WorkToBuild>
+      <Comfort>0.1</Comfort>
+      <SurgerySuccessChanceFactor>0.7</SurgerySuccessChanceFactor>
+    </statBases>
+    <scatterableOnMapGen>false</scatterableOnMapGen>
+    <useHitPoints>False</useHitPoints>
+    <size>(1,2)</size>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeHookBed</designatorDropdown>
+    <passability>Standable</passability>
+    <drawGUIOverlay>True</drawGUIOverlay>
+    <defaultPlacingRot>North</defaultPlacingRot>
+    <building>
+      <bed_showSleeperBody>True</bed_showSleeperBody>
+      <sowTag>SupportPlantsOnly</sowTag>
+      <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+      <ai_chillDestination>false</ai_chillDestination>
+      <isEdifice>false</isEdifice>
+    </building>
+    <comps>
+      <li Class="CompProperties_RoomIdentifier">
+        <roomStat>Impressiveness</roomStat>
+      </li>
+    </comps>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VHookbedBV</defName>
+    <label>Hooking</label>
+    <description>Not comfortable.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Hook/hookbedB</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Projectile</altitudeLayer>
+    <selectable>false</selectable>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeHookBed</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>VHookbedCV</defName>
+    <label>Hook rope</label>
+    <description>Not comfortable.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>Hook/hookbedC</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>ItemImportant</altitudeLayer>
+    <statBases>
+      <WorkToBuild>50</WorkToBuild>
+      <Beauty>0</Beauty>
+    </statBases>
+    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <building>
+      <isEdifice>false</isEdifice>
+    </building>
+    <designationCategory>Misc</designationCategory>
+    <designatorDropdown>VeeHookBed</designatorDropdown>
+    <clearBuildingArea>false</clearBuildingArea>
+    <tradeability>None</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>VButcher</defName>
+    <label>Bloody butcher table</label>
+    <description>A heavy table for butchering dead creatures into pieces of raw meat.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>VButcher/VButcher</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.20</staticSunShadowHeight>
+    <costStuffCount>75</costStuffCount>
+    <costList>
+      <WoodLog>20</WoodLog>
+    </costList>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+    </stuffCategories>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>True</useHitPoints>
+    <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-15</Cleanliness>
+    </statBases>
+    <size>(3,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>60</pathCost>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <recipes>
+      <li>ButcherCorpseFlesh</li>
+      <li>Make_Kibble</li>
+    </recipes>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <comps>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+    </comps>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+  </ThingDef>
+</Defs>

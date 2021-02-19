@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>NewRatkinPlus</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>*/RecipeDef[@Name="VAbyss_Mealbase"]/fixedIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>Meat_Ratkin</li>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>*/RecipeDef[@Name="VAbyss_Mealbase"]/defaultIngredientFilter/thingDefs</xpath>
+          <value>
+            <li>Meat_Ratkin</li>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

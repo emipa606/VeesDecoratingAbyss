@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAbyss_CookHumandimsum.label>인육 딤섬 만들기</VAbyss_CookHumandimsum.label>
+  <VAbyss_CookHumandimsum.description>고기를 많이 사용하여 만든 럭셔리한 요리입니다.</VAbyss_CookHumandimsum.description>
+  <VAbyss_CookHumandimsum.jobString>인육 딤섬 만들기.</VAbyss_CookHumandimsum.jobString>
+  <VAbyss_CookHumansteak.label>인육 스테이크 만들기</VAbyss_CookHumansteak.label>
+  <VAbyss_CookHumansteak.description>고기를 많이 사용하여 만든 럭셔리한 요리입니다.</VAbyss_CookHumansteak.description>
+  <VAbyss_CookHumansteak.jobString>인육 스테이크 만들기.</VAbyss_CookHumansteak.jobString>
+</LanguageData>

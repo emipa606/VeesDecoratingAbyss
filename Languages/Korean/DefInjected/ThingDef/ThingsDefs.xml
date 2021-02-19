@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CAN_CannibalPemmican.label>인육 페미컨</CAN_CannibalPemmican.label>
+  <CAN_CannibalPemmican.description>인간의 지방과 식물성재료를 으깨어 만든 혼합 보존식. 싱겁지만 불쾌한 맛은 아닙니다. 냉장없이 매우 오래 보관할 수 있습니다.</CAN_CannibalPemmican.description>
+  <CAN_CannibalMealSurvivalPack.label>인육 보존 식량</CAN_CannibalMealSurvivalPack.label>
+  <CAN_CannibalMealSurvivalPack.description>생존을 위해 만들어진 고품질의 인육 보존 식량입니다.</CAN_CannibalMealSurvivalPack.description>
+  <CAN_CannibalMealSimple.label>간단한 식사(인육)</CAN_CannibalMealSimple.label>
+  <CAN_CannibalMealSimple.description>인간 고기와 몇 가지 재료로 빠르게 요리된 간단한 식사입니다.</CAN_CannibalMealSimple.description>
+  <CAN_CannibalMealFine.label>좋은 식사(인육)</CAN_CannibalMealFine.label>
+  <CAN_CannibalMealFine.description>인간 고기와 다양한 재료들로 조리된 다소 복잡한 요리입니다.</CAN_CannibalMealFine.description>
+  <CAN_CannibalMealLavish.label>호화로운 식사(인육)</CAN_CannibalMealLavish.label>
+  <CAN_CannibalMealLavish.description>식인 요리의 정점입니다. 몸, 마음 그리고 영혼에 영양을 공급합니다.</CAN_CannibalMealLavish.description>
+  <!--===================피=======================-->
+  <VeeFakeBloodA.label>핏자국 1</VeeFakeBloodA.label>
+  <VeeFakeBloodA.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodA.description>
+  <VeeFakeBloodB.label>핏자국 2</VeeFakeBloodB.label>
+  <VeeFakeBloodB.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodB.description>
+  <VeeFakeBloodC.label>핏자국 3</VeeFakeBloodC.label>
+  <VeeFakeBloodC.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodC.description>
+  <VeeFakeBloodD.label>핏자국 4</VeeFakeBloodD.label>
+  <VeeFakeBloodD.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodD.description>
+  <VeeFakeBloodE.label>핏자국 5</VeeFakeBloodE.label>
+  <VeeFakeBloodE.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodE.description>
+  <VeeFakeBloodF.label>벽의 핏자국</VeeFakeBloodF.label>
+  <VeeFakeBloodF.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodF.description>
+  <VeeFakeBloodG.label>핏자국 6</VeeFakeBloodG.label>
+  <VeeFakeBloodG.description>이건 아무것도 아니지만, 피처럼 보입니다.</VeeFakeBloodG.description>
+  <!--===================피욕조=======================-->
+  <VBloodTubV.label>피욕조</VBloodTubV.label>
+  <VBloodTubV.description>별거 아니에요. :)</VBloodTubV.description>
+  <!-- ==========Hook bed!!!!==============-->
+  <VHookbedAV.label>갈고리 침대</VHookbedAV.label>
+  <VHookbedAV.description>편안하진 않습니다.</VHookbedAV.description>
+  <VHookbedBV.label>갈고리 부분</VHookbedBV.label>
+  <VHookbedBV.description>편안하진 않습니다.</VHookbedBV.description>
+  <VHookbedCV.label>갈고리 로프</VHookbedCV.label>
+  <VHookbedCV.description>편안하진 않습니다.</VHookbedCV.description>
+  <VButcher.label>피묻은 도축작업대</VButcher.label>
+  <VButcher.description>죽은 동물을 생고기 조각으로 가공할 때 사용하는 무거운 탁자입니다.</VButcher.description>
+  <!-- ==========음식!!!==============-->
+  <VAbyss_Humansteak.label>인육 스테이크</VAbyss_Humansteak.label>
+  <VAbyss_Humansteak.description>재료가 인간이라는걸 빼면 다 좋아보입니다.</VAbyss_Humansteak.description>
+  <VAbyss_Humandimsum.label>인육 딤섬</VAbyss_Humandimsum.label>
+  <VAbyss_Humandimsum.description>재료가 인간이라는걸 빼면 다 좋아보입니다.</VAbyss_Humandimsum.description>
+</LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Name="VAbyss_Mealbase" Abstract="True">
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Meat_Human</li>
+      </thingDefs>
+      <categories>
+        <li>PlantFoodRaw</li>
+      </categories>
+      <specialFiltersToDisallow>
+        <li>AllowPlantFood</li>
+      </specialFiltersToDisallow>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+        <li>Meat_Human</li>
+      </thingDefs>
+      <categories>
+        <li>PlantFoodRaw</li>
+      </categories>
+    </defaultIngredientFilter>
+    <workSkill>Cooking</workSkill>
+  </RecipeDef>
+  <RecipeDef ParentName="VAbyss_Mealbase">
+    <defName>VAbyss_CookHumansteak</defName>
+    <label>cook cannibal steak</label>
+    <description>It's a luxurious dish that takes a lot of meat.</description>
+    <jobString>Cooking cannibal steak.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Meat_Human</li>
+          </thingDefs>
+        </filter>
+        <count>0.75</count>
+      </li>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.25</count>
+      </li>
+    </ingredients>
+    <products>
+      <VAbyss_Humansteak>1</VAbyss_Humansteak>
+    </products>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Cooking>8</Cooking>
+    </skillRequirements>
+  </RecipeDef>
+  <RecipeDef ParentName="VAbyss_Mealbase">
+    <defName>VAbyss_CookHumandimsum</defName>
+    <label>cook cannibal dimsum</label>
+    <description>It's a luxurious dish that takes a lot of meat.</description>
+    <jobString>Cooking cannibal dimsum.</jobString>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Meat_Human</li>
+          </thingDefs>
+        </filter>
+        <count>0.8</count>
+      </li>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.2</count>
+      </li>
+    </ingredients>
+    <products>
+      <VAbyss_Humandimsum>1</VAbyss_Humandimsum>
+    </products>
+    <recipeUsers>
+      <li>ElectricStove</li>
+      <li>FueledStove</li>
+    </recipeUsers>
+    <skillRequirements>
+      <Cooking>8</Cooking>
+    </skillRequirements>
+  </RecipeDef>
+</Defs>
