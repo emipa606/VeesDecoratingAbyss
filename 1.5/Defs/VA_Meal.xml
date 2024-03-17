@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealBase">
+    <defName>VAbyss_Humansteak</defName>
+    <label>Human steak</label>
+    <description>Everything looks good. Except that the ingredients are human.</description>
+    <graphicData>
+      <texPath>Meal/VCsteak</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>40</MarketValue>
+      <WorkToMake>800</WorkToMake>
+      <Nutrition>1.00</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <tasteThought>AteLavishMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>VAHedLavishHumanMeal</hediffDef>
+          <severity>0.15</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+  <ThingDef ParentName="MealBase">
+    <defName>VAbyss_Humandimsum</defName>
+    <label>Human dimsum</label>
+    <description>Everything looks good. Except that the ingredients are human.</description>
+    <graphicData>
+      <texPath>Meal/VCdimsum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>40</MarketValue>
+      <WorkToMake>800</WorkToMake>
+      <Nutrition>1.00</Nutrition>
+    </statBases>
+    <ingestible>
+      <preferability>MealLavish</preferability>
+      <tasteThought>AteLavishMeal</tasteThought>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>VAHedLavishHumanMeal</hediffDef>
+          <severity>0.15</severity>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <tradeability>Sellable</tradeability>
+  </ThingDef>
+</Defs>
