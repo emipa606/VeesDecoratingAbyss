@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Human dimsum -->
+  <VAbyss_Humandimsum.label>Human dimsum</VAbyss_Humandimsum.label>
+  <!-- EN: Everything looks good. Except that the ingredients are human. -->
+  <VAbyss_Humandimsum.description>Everything looks good. Except that the ingredients are human.</VAbyss_Humandimsum.description>
+  <!-- EN: Human steak -->
+  <VAbyss_Humansteak.label>Human steak</VAbyss_Humansteak.label>
+  <!-- EN: Everything looks good. Except that the ingredients are human. -->
+  <VAbyss_Humansteak.description>Everything looks good. Except that the ingredients are human.</VAbyss_Humansteak.description>
+</LanguageData>

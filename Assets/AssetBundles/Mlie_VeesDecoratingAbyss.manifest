@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2761494955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06351f3fa74282d80fcc46bf19952e45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 06351f3fa74282d80fcc46bf19952e45
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodF_north.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/Meal/VCsteak.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/Hook/hookbedC.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodB.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodG.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodF_south.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/Hook/hookbedAm.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub_eastm.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodE.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/VButcher/VButcher_south.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodD.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub_northm.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/Meal/VCdimsum.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub_north.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub_southm.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub_south.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/VButcher/VButcher.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/Hook/hookbedA.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodA.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/Hook/hookbedB.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodC.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/tileblood/tilebloodF_east.png
+- Assets/Data/Mlie.VeesDecoratingAbyss/Textures/BloodTub/BloodTub_east.png
+Dependencies: []

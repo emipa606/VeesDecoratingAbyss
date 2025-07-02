@@ -12,12 +12,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>SmallWire</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -37,12 +37,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>SmallWire</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -62,12 +62,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>SmallWire</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -87,12 +87,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>SmallWire</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -112,12 +112,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>SmallWire</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -137,12 +137,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>Item</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -162,12 +162,12 @@
       <drawSize>(2,2)</drawSize>
     </graphicData>
     <altitudeLayer>SmallWire</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>
@@ -233,7 +233,7 @@
     <uiIconScale>0.90</uiIconScale>
   </ThingDef>
   <!-- ==========Hook bed!!!!==============-->
-  <ThingDef ParentName="BuildingBase">
+  <ThingDef ParentName="BedBase">
     <defName>VHookbedAV</defName>
     <label>Hook bed</label>
     <description>Not comfortable.</description>
@@ -249,6 +249,7 @@
       <WorkToBuild>0</WorkToBuild>
       <Comfort>0.1</Comfort>
       <SurgerySuccessChanceFactor>0.7</SurgerySuccessChanceFactor>
+      <Mass>5</Mass>
     </statBases>
     <scatterableOnMapGen>false</scatterableOnMapGen>
     <useHitPoints>False</useHitPoints>
@@ -257,6 +258,7 @@
     <designatorDropdown>VeeHookBed</designatorDropdown>
     <passability>Standable</passability>
     <drawGUIOverlay>True</drawGUIOverlay>
+    <placeWorkers Inherit="False" />
     <defaultPlacingRot>North</defaultPlacingRot>
     <building>
       <bed_showSleeperBody>True</bed_showSleeperBody>
@@ -265,11 +267,6 @@
       <ai_chillDestination>false</ai_chillDestination>
       <isEdifice>false</isEdifice>
     </building>
-    <comps>
-      <li Class="CompProperties_RoomIdentifier">
-        <roomStat>Impressiveness</roomStat>
-      </li>
-    </comps>
     <clearBuildingArea>false</clearBuildingArea>
     <tradeability>None</tradeability>
   </ThingDef>
@@ -284,12 +281,12 @@
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <altitudeLayer>Projectile</altitudeLayer>
-    <selectable>false</selectable>
+    <selectable>true</selectable>
     <statBases>
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <ai_chillDestination>false</ai_chillDestination>
       <isEdifice>false</isEdifice>
@@ -314,7 +311,7 @@
       <WorkToBuild>50</WorkToBuild>
       <Beauty>0</Beauty>
     </statBases>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Floors</drawStyleCategory>
     <building>
       <isEdifice>false</isEdifice>
     </building>

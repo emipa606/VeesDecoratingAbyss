@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cook cannibal dimsum -->
+  <VAbyss_CookHumandimsum.label>cook cannibal dimsum</VAbyss_CookHumandimsum.label>
+  <!-- EN: It's a luxurious dish that takes a lot of meat. -->
+  <VAbyss_CookHumandimsum.description>It's a luxurious dish that takes a lot of meat.</VAbyss_CookHumandimsum.description>
+  <!-- EN: Cooking cannibal dimsum. -->
+  <VAbyss_CookHumandimsum.jobString>Cooking cannibal dimsum.</VAbyss_CookHumandimsum.jobString>
+  <!-- EN: cook cannibal steak -->
+  <VAbyss_CookHumansteak.label>cook cannibal steak</VAbyss_CookHumansteak.label>
+  <!-- EN: It's a luxurious dish that takes a lot of meat. -->
+  <VAbyss_CookHumansteak.description>It's a luxurious dish that takes a lot of meat.</VAbyss_CookHumansteak.description>
+  <!-- EN: Cooking cannibal steak. -->
+  <VAbyss_CookHumansteak.jobString>Cooking cannibal steak.</VAbyss_CookHumansteak.jobString>
+</LanguageData>

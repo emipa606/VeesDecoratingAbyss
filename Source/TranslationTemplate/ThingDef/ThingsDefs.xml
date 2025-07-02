@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bloodtub -->
+  <VBloodTubV.label>Bloodtub</VBloodTubV.label>
+  <!-- EN: It's nothing.:) -->
+  <VBloodTubV.description>It's nothing.:)</VBloodTubV.description>
+  <!-- EN: Bloody butcher table -->
+  <VButcher.label>Bloody butcher table</VButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <VButcher.description>A heavy table for butchering dead creatures into pieces of raw meat.</VButcher.description>
+  <!-- EN: Blood 1 -->
+  <VeeFakeBloodA.label>Blood 1</VeeFakeBloodA.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodA.description>it's Nothing, but looks like Blood.</VeeFakeBloodA.description>
+  <!-- EN: Blood 2 -->
+  <VeeFakeBloodB.label>Blood 2</VeeFakeBloodB.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodB.description>it's Nothing, but looks like Blood.</VeeFakeBloodB.description>
+  <!-- EN: Blood 3 -->
+  <VeeFakeBloodC.label>Blood 3</VeeFakeBloodC.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodC.description>it's Nothing, but looks like Blood.</VeeFakeBloodC.description>
+  <!-- EN: Blood 4 -->
+  <VeeFakeBloodD.label>Blood 4</VeeFakeBloodD.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodD.description>it's Nothing, but looks like Blood.</VeeFakeBloodD.description>
+  <!-- EN: Blood 5 -->
+  <VeeFakeBloodE.label>Blood 5</VeeFakeBloodE.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodE.description>it's Nothing, but looks like Blood.</VeeFakeBloodE.description>
+  <!-- EN: Wall Blood -->
+  <VeeFakeBloodF.label>Wall Blood</VeeFakeBloodF.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodF.description>it's Nothing, but looks like Blood.</VeeFakeBloodF.description>
+  <!-- EN: Blood 6 -->
+  <VeeFakeBloodG.label>Blood 6</VeeFakeBloodG.label>
+  <!-- EN: it's Nothing, but looks like Blood. -->
+  <VeeFakeBloodG.description>it's Nothing, but looks like Blood.</VeeFakeBloodG.description>
+  <!-- EN: Hook bed -->
+  <VHookbedAV.label>Hook bed</VHookbedAV.label>
+  <!-- EN: Not comfortable. -->
+  <VHookbedAV.description>Not comfortable.</VHookbedAV.description>
+  <!-- EN: Hooking -->
+  <VHookbedBV.label>Hooking</VHookbedBV.label>
+  <!-- EN: Not comfortable. -->
+  <VHookbedBV.description>Not comfortable.</VHookbedBV.description>
+  <!-- EN: Hook rope -->
+  <VHookbedCV.label>Hook rope</VHookbedCV.label>
+  <!-- EN: Not comfortable. -->
+  <VHookbedCV.description>Not comfortable.</VHookbedCV.description>
+</LanguageData>
